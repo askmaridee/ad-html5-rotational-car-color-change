@@ -1,0 +1,52 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\gball\OneDrive for Business\hipcricket\Chrysler\Rotational\Font\latinotype_-_arquitectabold-demo.html
+FileModTime:1406751981
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\gball\OneDrive for Business\hipcricket\Chrysler\Rotational\Font\latinotype_-_arquitectabold-webfont.eot
+FileModTime:1406751981
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\gball\OneDrive for Business\hipcricket\Chrysler\Rotational\Font\latinotype_-_arquitectabold-webfont.svg
+FileModTime:1406751981
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArquitectaBold
+FamilyName:Arquitecta
+StyleName:Bold
+FullName:Arquitecta Bold Bold
+MenuName:Arquitecta Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\gball\OneDrive for Business\hipcricket\Chrysler\Rotational\Font\latinotype_-_arquitectabold-webfont.ttf
+DataFormat:sfntData
+FileLength:104712
+FileModTime:1406751981
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Arquitecta Bold
+NameArray:0,Win,16,Arquitecta
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\gball\OneDrive for Business\hipcricket\Chrysler\Rotational\Font\latinotype_-_arquitectabold-webfont.woff
+FileModTime:1406751981
+%EndFont
+
